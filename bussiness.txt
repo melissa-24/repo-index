@@ -4,3 +4,5 @@ Index of BeeDev IT Services related Repository Links
 2 - https://github.com/beedev-itservices/lah-gallery
 3 - https://github.com/beedev-itservices/lah-main
 4 - https://github.com/beedev-itservices/lah-archive
+5 - https://github.com/beedev-itservices/fswd-help-guide
+6 - https://github.com/beedev-itservices/basics
