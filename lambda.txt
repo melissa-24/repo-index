@@ -1,8 +1,24 @@
 Index of all Lambda School Repositories
 
-1 - Main Repo for all links
-    https://github.com/Extra-Coding-Tracks/track-repos
+1 - Main Repo for all links - https://github.com/Extra-Coding-Tracks/track-repos
     
 2 - Build Week Repo Links
+    Build 1 Organization - https://github.com/2-water-my-plants
+        UI - https://github.com/2-water-my-plants/UI
+    Build 2
 
 3 - Sprint Repo Links
+    Web
+        Unit 1
+            Sprint 1 - https://github.com/melissa-24/Sprint-Challenge--User-Interface
+            Sprint 2 - https://github.com/melissa-24/Sprint-Challenge--Advanced-CSS
+            Sprint 3 - https://github.com/melissa-24/Sprint-Challenge--JavaScript
+        Unit 2
+        Unit 3
+        Unit 4
+    iOS
+    Android
+    Ruby
+    Java
+    UX
+    DS  
