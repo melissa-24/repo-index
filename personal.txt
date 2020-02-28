@@ -1,7 +1,12 @@
 Index of all Personal Repository Links
 
-1 - https://github.com/beedev-itservices/craftsnherbs
-2 - https://github.com/beedev-itservices/honeybeescrochet
-3 - https://github.com/beedev-itservices/beedev-itservices
-4 - https://github.com/beedev-itservices/basics
-5 - https://github.com/beedev-itservices/fswd-help-guide
+1 - Crafts N Herbs = https://github.com/beedev-itservices/craftsnherbs
+2 - HoneyBees's Crochet = https://github.com/beedev-itservices/honeybeescrochet
+3 - BeeDev IT Services = https://github.com/beedev-itservices/beedev-itservices
+4 - Basic Templates = https://github.com/beedev-itservices/basics
+5 - Full Stack Web Development = https://github.com/beedev-itservices/fswd-help-guide
+6 - BeeDev - https://github.com/melissa-24/BeeDev
+7 - BeeDevITServices - https://github.com/melissa-24/BeeDevITServices
+8 - Crochet - https://github.com/melissa-24/crochet
+9 - Portfolio Website - https://github.com/melissa-24/portfolio-website
+10 - CodePen Links - https://github.com/melissa-24/MyCodePens
